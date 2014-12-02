@@ -1,0 +1,1 @@
+﻿package  src {		public class EnemyTank extends TankBase 	{		public function EnemyTank() {			// constructor code		}	}	}
