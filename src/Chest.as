@@ -1,0 +1,1 @@
+﻿package src {	import flash.display.Sprite;	import flash.display.MovieClip;		public class Chest extends Sprite	{		private var chestArt:MovieClip		public var lives:int = 10;		public function Chest() {			chestArt = new ChestArt();			addChild(chestArt);		}	}	}
